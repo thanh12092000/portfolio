@@ -1,0 +1,29 @@
+/************ About Css ************/
+
+.about-bx {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .about-bx h2 {
+    margin-bottom: 14px;
+  }
+  
+  .about-wrap,
+  .about-text {
+    text-align: left;
+    color: #B8B8B8;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+  }
+  
+  .about-item {
+    display: flex;
+  }
+  
+  
+  
+  .about-item p {
+    padding-left: 12px;
+  }

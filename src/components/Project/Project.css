@@ -1,0 +1,63 @@
+/************ Projects Css ************/
+.projects,
+.about {
+    padding: 0 0 50px 0;
+    position: relative;
+}
+
+.projects-bx,
+.about-bx {
+    background: #585881;
+    border-radius: 64px;
+    text-align: center;
+    padding: 60px 50px;
+    margin-top: -60px;
+    margin-bottom: 60px;
+
+}
+
+.projects h2,
+.about h2 {
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.projects-list {
+    text-align: left;
+}
+
+.project-item {
+    padding: 12px 16px;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    margin-bottom: 24px;
+}
+
+.project-item>a {
+    font-size: 24px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
+.project-item p,
+.project-item p a {
+    font-size: 18px;
+    color: #B8B8B8;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    text-decoration: none;
+    margin-bottom: 0px;
+}
+
+.project-item p span {
+    font-size: 16px;
+    padding: 2px 6px;
+    width: 10px;
+    background-color: #161c2a;
+    border-radius: 16px;
+    margin-right: 8px;
+}
