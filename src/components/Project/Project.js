@@ -61,6 +61,33 @@ function Project() {
                     <span>CSS</span>
                   </p>
                 </div>
+
+                <div className="project-item">
+                  <a
+                    href="https://thanh12092000.github.io/weather/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Weather
+                  </a>
+                  <p>
+                    Link github:
+                    <a
+                      href="https://github.com/thanh12092000/weather"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      &nbsp; https://github.com/thanh12092000/weather
+                    </a>
+                  </p>
+                  <p>My personal project</p>
+                  <p>
+                    Languages:
+                    <span>HTML</span>
+                    <span>CSS</span>
+                    <span>JavaScript</span>
+                  </p>
+                </div>
               </div>
             </div>
           </Col>
