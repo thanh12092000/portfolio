@@ -88,6 +88,33 @@ function Project() {
                     <span>JavaScript</span>
                   </p>
                 </div>
+
+                <div className="project-item">
+                  <a
+                    href="https://github.com/thanh12092000/portfolio"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    My Portfolio
+                  </a>
+                  <p>
+                    Link github:
+                    <a
+                      href="https://github.com/thanh12092000/portfolio"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      &nbsp; https://github.com/thanh12092000/portfolio
+                    </a>
+                  </p>
+                  <p>My personal project</p>
+                  <p>
+                    Languages:
+                    <span>HTML</span>
+                    <span>CSS</span>
+                    <span>JavaScript</span>
+                  </p>
+                </div>
               </div>
             </div>
           </Col>
