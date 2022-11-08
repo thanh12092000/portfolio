@@ -110,9 +110,10 @@ function Project() {
                   <p>My personal project</p>
                   <p>
                     Languages:
-                    <span>HTML</span>
-                    <span>CSS</span>
-                    <span>JavaScript</span>
+                    <span>ReactJs</span>
+                    <span>HTML5</span>
+                    <span>CSS3</span>
+                    <span>Boostrap</span>
                   </p>
                 </div>
               </div>
