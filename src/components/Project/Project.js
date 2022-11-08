@@ -113,6 +113,7 @@ function Project() {
                     <span>ReactJs</span>
                     <span>HTML5</span>
                     <span>CSS3</span>
+                    <span>JavaScript</span>
                     <span>Boostrap</span>
                   </p>
                 </div>
